@@ -8,6 +8,8 @@ merge changes in new branch to master: git merge new\
 
 <b>setup github repository</b>\
 
+git remote add origin [url]
+
 check if on master branch: git checkout master\
 push changes to repository: git push -u origin master\
 (u updates all the local commits towards the remote repository)\
